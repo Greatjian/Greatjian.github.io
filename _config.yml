@@ -16,8 +16,7 @@ resume: true
 resume-external: true
 resume-url: assets/CV.pdf
 
-url: https://koppl.in/indigo
-# your url: http://USERNAME.github.io
+url: https://greatjian.github.io/
 
 permalink: /:title/
 
@@ -34,15 +33,15 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/profile.php?id=100008326089399&ref=bookmarks
+facebook: profile.php?id=100008326089399&ref=bookmarks
 #twitter: mytwitter
 # google: mygoogle
-instagram: https://www.instagram.com/greatjian/
+instagram: greatjian
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/shujian-wen-225ba986/
+linkedin: shujian-wen-225ba986
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/Greatjian
+github: Greatjian
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
