@@ -20,9 +20,7 @@ layout: page
     <p> MS in Materials Science and Engineering, GPA: 3.50, Expected Dec 2017</p>
     <p>Relevant coursework: Partial Differential Equations, Crystallography, Electronic and Magnetic Properties of Materials, Nanotechnology, Kinetics of Transformations, Thermodynamic and Phase Diagram, Mechanical Behavior of Materials</p>
 </li>
-<li><p> 
-
-   **Fudan University** | Department of Material Science, Shanghai, China</p>
+<li><p>**Fudan University** | Department of Material Science, Shanghai, China</p>
     <p> BS in Electronics Science and Technology, GPA: 3.30, Rank 3/22, Sept 2012 - June 2016</p>
     <p> Relevant coursework: Mathematical Analysis, C Programming, Methods of Mathematical Physics, Linear Algebra, Materials Analysis, Preparation and Processing of Materials, Optoelectronic Technology and Devices</p>
 </li>
