@@ -13,12 +13,12 @@ layout: page
 </div>
 
 <h2>Education</h2>
-<ul>      
+<ul>
 <li><p>
 
-   **Columbia University** | School of Engineering and Applied Science, New York, NY</p>
+**Columbia University** | School of Engineering and Applied Science, New York, NY</p>
     <p> MS in Materials Science and Engineering, GPA: 3.50, Expected Dec 2017</p>
-    <p>Relevant coursework: Partial Differential Equations, Crystallography, Electronic and Magnetic Properties of Materials, Nanotechnology, Kinetics of Transformations, Thermodynamic and Phase Diagram, Mechanical Behavior of Materials
+    <p>Relevant coursework: Partial Differential Equations, Crystallography, Electronic and Magnetic Properties of Materials, Nanotechnology, Kinetics of Transformations, Thermodynamic and Phase Diagram, Mechanical Behavior of Materials</p>
 </li>
 <li><p> 
 
@@ -43,20 +43,20 @@ layout: page
 <ul>
 <li><p>
 
-**Excimer Laser-Induced Crystallization (ELC) of Amorphous Si Films** Columbia University, February 2017 – present, New York, USA</p>
+**Excimer Laser-Induced Crystallization (ELC) of Amorphous Si Films** | Columbia University, February 2017 – present, New York, USA</p>
 <p>Conducted numerical analysis on the model of melting and solidification process in the pulsed laser irradiation of
 thin semiconductor films</p>
 <p>Assisted with the characterization process using SEM, TEM and AFM for sample analysis</p>
 </li>
 <li><p>
 
-**Research of Lithium Titanate for Lithium ion Batteries** Mar 2015 – June 2016, Fudan University, Shanghai, China</p>
+**Research of Lithium Titanate for Lithium ion Batteries** | Fudan University, Mar 2015 – June 2016,  Shanghai, China</p>
 <p>Put forward novel ideas to form nano-micro pore structure based on the traditional carbon coating method, the sample achieved improved performances</p>
 <p>Conducted research for more than 150 academic papers to write the review "The recent development of lithium titanate as anode materials for lithium-ion batteries", accepted by < Journal of Functional Materials ></p>
 </li>
 <li><p>
 
-**Control of Automobile Exhaust and Factory Waste Gas Using Rare Earth Catalysts** July 2015 – Aug 2015, Tsinghua University, Beijing, China</p>
+**Control of Automobile Exhaust and Factory Waste Gas Using Rare Earth Catalysts** | Tsinghua University, July 2015 – Aug 2015, Beijing, China</p>
 <p>Performed preparation process of hollow sphere structure for Manganese Dioxide with doping elements</p>
 <p>Characterized the sample using SEM, XRD, H2-TPR and infrared gas analyzer to determine data reliability</p>
 </li></ul>
