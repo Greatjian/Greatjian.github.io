@@ -6,7 +6,7 @@ layout: page
 <div align="center" >
 <p>
 
-<b>一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。</b></p>
+<b><div color="$beta">一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。</div></b></p>
 <p>
 
 <b>A noble man, a pure man, a man of morality, a man who is out of the low taste, a man who is good for the people.</b></p>
@@ -16,7 +16,7 @@ layout: page
 <ul>
 <li><p>
 
-<b>Columbia University</b> | School of Engineering and Applied Science, New York, NY</p>
+<b><c>Columbia University</c></b> | School of Engineering and Applied Science, New York, NY</p>
     <p> MS in Materials Science and Engineering, GPA: 3.50, Expected Dec 2017</p>
     <p>Relevant coursework: Partial Differential Equations, Crystallography, Electronic and Magnetic Properties of Materials, Nanotechnology, Kinetics of Transformations, Thermodynamic and Phase Diagram, Mechanical Behavior of Materials</p>
 </li>
