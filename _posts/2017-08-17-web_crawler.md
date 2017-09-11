@@ -2,7 +2,7 @@
 title: "Web Crawler"
 layout: post
 date: 2017-08-17 18:00
-tag: Android
+tag: Python
 headerImage: true
 projects: true
 hidden: true # don't count this post in blog pagination

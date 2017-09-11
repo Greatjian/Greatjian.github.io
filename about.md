@@ -3,101 +3,67 @@ title: About
 layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
-<div align="center" >
-<p>
 
-<b><div color="$beta">一个高尚的人，一个纯粹的人，一个有道德的人，一个脱离了低级趣味的人，一个有益于人民的人。</div></b></p>
-<p>
 
-<b><div color="$beta">A noble man, a pure man, a man of morality, a man who is out of the low taste, a man who is good for the people.</div></b></p>
-</div>
+# Shujian WEN
 
-<h2>Education</h2>
-<ul>
-<li><p>
+## EDUCATION
 
-<b>Columbia University</b> | School of Engineering and Applied Science, New York, NY</p>
-    <p> MS in Materials Science and Engineering, GPA: 3.50, Expected Dec 2017</p>
-    <p>Relevant coursework: Partial Differential Equations, Crystallography, Electronic and Magnetic Properties of Materials, Nanotechnology, Kinetics of Transformations, Thermodynamic and Phase Diagram, Mechanical Behavior of Materials</p>
-</li>
-<li><p><b>Fudan University</b> | Department of Material Science, Shanghai, China</p>
-    <p> BS in Electronics Science and Technology, GPA: 3.30, Rank 3/22, Sept 2012 - June 2016</p>
-    <p> Relevant coursework: Mathematical Analysis, C Programming, Methods of Mathematical Physics, Linear Algebra, Materials Analysis, Preparation and Processing of Materials, Optoelectronic Technology and Devices</p>
-</li>
-<li><p>
+- Columbia University | School of Engineering and Applied Science | New York, NY
 
-   <b>The University of Hong Kong</b> | Department of Mechanical Engineering, Hong Kong, China</p>
-   <p> International Student Exchange Program, GPA: 3.66, Sept 2014 – Dec 2014</p>
-   <p> Relevant coursework: Solid State Physics, Materials for Engineering Applications, Laser and Spectroscopy</p>
-</li>
-<li><p>
+    MS in Materials Science and Engineering, GPA: 3.53, Expected Dec 2017
 
-   <b>University of California at Berkeley</b> | Summer Courses, Berkeley, CA, July 2014 – Aug 2014</p>
-   <p> Relevant coursework: Solid Mechanics</p>
-</li>
-</ul>
+    Relevant coursework: Data Structures in Java, Partial Differential Equations, Numerical Methods
 
-<h2>Research experience</h2>
-<ul>
-<li><p>
+- Fudan University | Department of Material Science | Shanghai, China
 
-<b>Excimer Laser-Induced Crystallization (ELC) of Amorphous Si Films</b> | Columbia University, February 2017 – present, New York, USA</p>
-<p>Conducted numerical analysis on the model of melting and solidification process in the pulsed laser irradiation of
-thin semiconductor films</p>
-<p>Assisted with the characterization process using SEM, TEM and AFM for sample analysis</p>
-</li>
-<li><p>
+    BS in Electronics Science and Technology, GPA: 3.30, Rank 3/22                                                          Sept 2012 - June 2016 
 
-<b>Research of Lithium Titanate for Lithium ion Batteries</b> | Fudan University, Mar 2015 – June 2016,  Shanghai, China</p>
-<p>Put forward novel ideas to form nano-micro pore structure based on the traditional carbon coating method, the sample achieved improved performances</p>
-<p>Conducted research for more than 150 academic papers to write the review "The recent development of lithium titanate as anode materials for lithium-ion batteries", accepted by < Journal of Functional Materials ></p>
-</li>
-<li><p>
+    Relevant coursework: C Programming, Mathematical Analysis, Methods of Mathematical Physics, Linear Algebra
 
-<b>Control of Automobile Exhaust and Factory Waste Gas Using Rare Earth Catalysts</b> | Tsinghua University, July 2015 – Aug 2015, Beijing, China</p>
-<p>Performed preparation process of hollow sphere structure for Manganese Dioxide with doping elements</p>
-<p>Characterized the sample using SEM, XRD, H2-TPR and infrared gas analyzer to determine data reliability</p>
-</li></ul>
+## EXPERIENCE
 
-<h2>Computer</h2>
+- High throughput smoothing of Raman images for studying lithium negative electrode, Aug 2017 – Present
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="#">Review of lithium ion batteries</a></li>
-	<li><a href="#">Numerical simulation for Si/SiO2 phase transformation</a></li>
-</ul>
-
-<h2>Accomplishments and awards</h2>
-<ul>
-<li>Second Prize for Academic Scholarship of Fudan University, June 2016</li>
-<li>William and Fung Scholarship, Sept 2014</li>
-<li>Second Prize for Academic Scholarship of Fudan University, Dec 2013</li>
-<li>Outstanding Volunteering Assistance Award, Sept 2013</li>
-</ul>
-
-<h2>Skills</h2>
-
-<ul>
-    <li> 
+    Columbia University (with Prof. Yuan Yang), New York, USA
     
-   <b>CFA level I passed</b></li>
-    <li><b>Language:</b> Mandarin (native); English (fluent); Cantonese, Spanish (conversational)</li>
-</ul>
+    - Implemented Gaussian kernel smoothing regression to achieve smoothing of Raman images using MATLAB
+    - Removed the noise and improved visual recognition of Ramen images by 30%
+
+- Web crawling for technology news gathering and processing, May 2017 – Aug 2017
+    
+    BICI USA, California, USA
+
+    - Designed a web scraper using Python to search news articles on technology websites
+    - Implemented with Requests, BeautifulSoup, nltk, PostgreSQL and uploaded work on AWS EC2
+    - Highly improved the efficiency of finding potential investment opportunities compared to manual searching
+
+- Excimer laser-induced crystallization (ELC) of amorphous Si films, Feb 2017 – May 2017
+
+    Columbia University (with Prof. James Im), New York, USA
+
+    - Conducted numerical analysis on the model of melting and solidification process in the pulsed laser irradiation of thin semiconductor films using Python
+    - Implemented data processing for status and temperature of the sample grid, making plot for direct visualization
+
+## PROJECTS
+
+- Q-Learning self-driving car
+    - Used Pytorch as deep learning framework and Kivy as car simulation generator to build an AI for a self-driving car model in Python
+    - Applied Deep Q-Learning model and Softmax function to achieve self-learning and action selection
+
+- Breakout AI
+    - Used Pytorch-a3c as deep reinforcement learning framework and OpenCV as computer vision platform to build an AI to play Breakout games.
+    - Applied A3C model and Long Short-Term Memory for better deep reinforcement learning performances
+
+- 2-Do List app
+    - Developed an Android To-Do List application using Java and the Android Studio
+    - Worked with Gson and Android SDK APIs such as Adapter, ListView; visualized on Android Virtual Device emulator
+
+## OTHER ACHIEVEMENTS										      	      
+
+- Github: Greatjian; Personal website: https://greatjian.github.io/
+- Languages: Proficient in Python, Java, familiar with C, C++; HTML, CSS (Framework: Bootstrap), JavaScript
+- Software: MATLAB, LabVIEW, Origin, Git; Database: PostgreSQL
+- CFA Level I (passed); Go amateur 4 Dan, the second level athletic in China
+- Community service: Received 2012 Outstanding Volunteering Assistance Award by performing tutoring to children with disabilities, devoted more than 100 hours; An energetic mountain hiker and traveler
+- Mandarin (native); English (fluent); Cantonese, Spanish (conversational)
